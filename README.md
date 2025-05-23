@@ -46,6 +46,20 @@ Welcome to my Java Practice Repository! This project contains **Java programming
 | 16  | **Face Printer**               | Print an ASCII face 😊                      |
 | 17  | **Binary Addition**            | Add binary numbers like 10 + 11 → 101       |
 | 18  | **Binary Multiplication**      | Multiply binary numbers like 10 \* 11 → 110 |
+| 19 | Capitalize Each Word                | Capitalizes the first letter of every word in a string  |
+| 20 | Constain Number                     | Checks if a string contains a specific number           |
+| 21 | Count Divisibles in Range           | Counts numbers divisible by a value in a given range    |
+| 22 | Count Factors                       | Calculates the number of factors of a given number      |
+| 23 | Extract Half                        | Extracts the first half of a given string               |
+| 24 | First and Last                      | Gets the first and last characters of a string          |
+| 25 | Largest and Smallest Value          | Finds the largest and smallest of three numbers         |
+| 26 | Reverse Word                        | Reverses the words in a sentence                        |
+| 27 | String to Integer                   | Converts a numeric string to an integer                 |
+| 28 | Sum Equals Third Number             | Checks if sum of two numbers equals a third             |
+| 29 | Count Digits                        | Counts number of digits in an integer                   |
+| 30 | Divisible by 3 and 5                | Checks if a number is divisible by both 3 and 5         |
+| 31 | Remove First Char and Concatenate   | Removes first char from two strings and joins them      |
+
 
 🔗 **Editor & Code Runner:** Available at the end of each problem on W3Resource site.
 
